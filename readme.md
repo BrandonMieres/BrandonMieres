@@ -39,7 +39,7 @@
 🎖️ Misión:
   - "Proteger la red 🛡️"
   - "Hackear éticamente 🕵️"
-  - "Automatizar el futuro ⚙️"
+  
   
 🔥 Pasiones:
   - Ciberseguridad 🔐
