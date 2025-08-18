@@ -168,20 +168,6 @@
 <tr>
 <td width="33%">
 
-### 🔍 **[HackingTools](https://github.com/BrandonMieres/HackingTools)**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-🟢_Activo-brightgreen?style=flat-square)](https://github.com/BrandonMieres/HackingTools)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/HackingTools?style=flat-square&color=yellow)
-
-**Suite completa de pentesting ético**
-- 🎯 Escaneo de puertos con precisión
-- 📊 Informes detallados de auditoría
-- ⚡ 40% más rápido que herramientas tradicionales
-- 🔗 **[Ver Código →](https://github.com/BrandonMieres/HackingTools)**
-
-</td>
-<td width="33%">
-
 ### 📱 **[DarKSMS](https://github.com/BrandonMieres/DarKSMS)**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Cross-Platform](https://img.shields.io/badge/Platform-🌍_Multi-blue?style=flat-square)](#)
