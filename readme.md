@@ -1,166 +1,199 @@
-# 🔐 Brandon Mieres | Técnico Superior en Administración de Sistemas
-
 <div align="center">
 
-```ascii
-██████╗  █████╗ ██████╗ ██╗  ██╗██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗████╗  ██║
-██║  ██║███████║██████╔╝█████╔╝ ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║██╔██╗ ██║
-██║  ██║██╔══██║██╔══██╗██╔═██╗ ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║██║   ██║██║╚██╗██║
-██████╔╝██║  ██║██║  ██║██║  ██╗██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝╚██████╔╝██║ ╚████║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝
-```
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    NEO-CYBER HEADER BANNER                      -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-### 🚀 **Técnico Superior en Administración de Sistemas**
-### 🔒 **Entusiasta de Ciberseguridad & Hacking Ético**
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:00F7FF&height=220&section=header&text=BRANDON%20MIERES&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00F7FF&strokeWidth=3&desc=SYSADMIN%20·%20PENTESTER%20·%20DEVOPS&descAlignY=65&descSize=18&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Construyendo+infraestructuras+seguras;Explorando+vulnerabilidades+%C3%A9ticamente;Automatizando+el+futuro+digital;Protegiendo+la+red+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E%3E+SYSTEM+INITIATED...;%3E%3E+SECURE+INFRASTRUCTURES...;%3E%3E+ETHICAL+HACKING+ENABLED...;%3E%3E+STATUS:+ALWAYS+LEARNING" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-brandon-mieres.vercel.app)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BrandonMieres&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- UNIFIED THEME BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=0D1117&color=00F7FF)](https://portfolio-brandon-mieres.vercel.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💬_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0D1117&color=00F7FF)](https://www.linkedin.com/in/brandon-mieres)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=BrandonMieres&color=00F7FF&style=for-the-badge&label=VISITS)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🎯 Sobre Mí
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        USER PROFILE                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 👾 Terminal:~/whoami
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ```yaml
-👨‍💻 Perfil Profesional:
-  name: "Brandon Mieres"
-  role: "Técnico Superior en Administración de Sistemas"
-  location: "España 🇪🇸"
+system_info:
+  host:      "BrandonMieres"
+  os:        "Spain (ES) 🇪🇸"
+  status:    "Admin"
   
-🎖️ Misión:
-  - "Proteger la red 🛡️"
-  - "Hackear éticamente 🕵️"
-  
-  
-🔥 Pasiones:
-  - Ciberseguridad 🔐
-  - Redes & Infraestructura 🌐
-  - Cloud Computing ☁️
-  - Automatización & DevOps 🚀
-  - Hacking Ético 🎭
+capabilities:
+  - "Defense-in-Depth 🛡️"
+  - "Security Auditor 🕵️‍♂️"
+  - "Workflow Automation ⚙️"
+
+# current_focus
+target_2025: [AWS_SAA, CEH, K8S_EXP]
 ```
 
 </td>
-<td width="50%">
+<td width="45%">
 
-### 🌟 **Mi Filosofía**
+### 💡 Core Directives
 
 > *"El conocimiento es infinito, por eso mi meta es seguir aprendiendo un poco más cada día."*
 
-**🚀 Mi enfoque:**
-- Construir infraestructuras **robustas** y **escalables**
-- Explorar vulnerabilidades de forma **ética** y **responsable**
-- Desarrollar herramientas para un mundo digital **más seguro**
-- Contribuir activamente a la **comunidad open-source**
-- **Aprender algo nuevo cada día** y nunca dejar de crecer
+**Priority Execution:**
+- 🟢 Infraestructuras de alta disponibilidad
+- 🔵 Modelos de seguridad Zero-Trust
+- 🟡 Escalado de pipelines DevSecOps
+- ⚪ Ciclo de aprendizaje activo 24/7
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🛠️ Arsenal Tecnológico
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    HARDWARE & SOFTWARE STACK                    -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🛠️ Stack:~/arsenal
 
 <div align="center">
 
-### 💻 **Lenguajes de Programación**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+### 💻 Lenguajes & Scripting
 
-### ☁️ **Cloud & Infraestructura**
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+<img src="https://skillicons.dev/icons?i=python,bash,html,css,php,js&theme=dark&perline=6" />
 
-### 🔧 **DevOps & Herramientas**
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
+### ☁️ Cloud & Infraestructura
 
-### 🔐 **Ciberseguridad**
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux&theme=dark&perline=6" />
+
+### 🔧 DevOps & Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,postgres,mysql&theme=dark&perline=6" />
+
+### 🔐 Ciberseguridad
+
+[![Kali](https://img.shields.io/badge/Kali_Linux-1a1b27?style=for-the-badge&logo=kali-linux&logoColor=00F7FF)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-1a1b27?style=for-the-badge&logo=metasploit&logoColor=00F7FF)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&logo=wireshark&logoColor=00F7FF)](#)
+[![BurpSuite](https://img.shields.io/badge/Burp_Suite-1a1b27?style=for-the-badge&logo=burpsuite&logoColor=00F7FF)](#)
+[![Nmap](https://img.shields.io/badge/Nmap-1a1b27?style=for-the-badge&logo=gnometerminal&logoColor=00F7FF)](#)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🎓 Formación Académica
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    FORMACIÓN ACADÉMICA                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🎓 Credentials:~/education
 
 <table>
 <tr>
-<td width="10%">🎓</td>
-<td width="45%">
-<strong>Técnico Superior en Administración de Sistemas en Red</strong><br>
-<em>INS Sapalomera, Blanes, España</em><br>
-📅 <code>2022-2025</code>
-</td>
-<td width="45%">
-<strong>🔹 Especialización:</strong><br>
-• Infraestructura de red empresarial<br>
-• Virtualización y contenedores<br>
-• Seguridad de sistemas críticos
+<td>
+
+**🎓 Técnico Superior en Administración de Sistemas en Red**
+*INS Sapalomera, Blanes, España* · `2022 – 2025`
+
+> Infraestructura de red empresarial · Virtualización y contenedores · Seguridad de sistemas críticos
+
 </td>
 </tr>
 <tr>
-<td>💻</td>
 <td>
-<strong>Técnico en Sistemas Microinformáticos y Redes</strong><br>
-<em>INS Freta, Calella, España</em><br>
-📅 <code>2020-2022</code>
-</td>
-<td>
-<strong>🔹 Enfoque:</strong><br>
-• Hardware y arquitectura de sistemas<br>
-• Sistemas operativos y redes LAN<br>
-• Soporte técnico especializado
+
+**💻 Técnico en Sistemas Microinformáticos y Redes**
+*INS Freta, Calella, España* · `2020 – 2022`
+
+> Hardware y arquitectura de sistemas · Sistemas operativos y redes LAN · Soporte técnico especializado
+
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🏆 Certificaciones Profesionales
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     CERTIFICACIONES                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Certs:~/certifications
 
 <div align="center">
 
-### 🔐 **Cisco Cybersecurity**
-![Ethical Hacker](https://img.shields.io/badge/🎭_Ethical_Hacker-00BCF2?style=for-the-badge&logoColor=white)
-![Cybersecurity Intro](https://img.shields.io/badge/🔒_Intro_to_Cybersecurity-00BCF2?style=for-the-badge&logoColor=white)
-![Network Defense](https://img.shields.io/badge/🛡️_Network_Defense-00BCF2?style=for-the-badge&logoColor=white)
-![Threat Management](https://img.shields.io/badge/⚠️_Threat_Management-00BCF2?style=for-the-badge&logoColor=white)
-![Endpoint Security](https://img.shields.io/badge/🖥️_Endpoint_Security-00BCF2?style=for-the-badge&logoColor=white)
+**🔐 Cisco Cybersecurity**
 
-### ☁️ **AWS Academy**
-![Cloud Foundations](https://img.shields.io/badge/☁️_Cloud_Foundations-FF9900?style=for-the-badge&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/📊_Data_Engineering-FF9900?style=for-the-badge&logoColor=white)
-![Cloud Operations](https://img.shields.io/badge/⚙️_Cloud_Operations-FF9900?style=for-the-badge&logoColor=white)
-![Intro to Cloud S1](https://img.shields.io/badge/🌐_Intro_Cloud_S1-FF9900?style=for-the-badge&logoColor=white)
-![Intro to Cloud S2](https://img.shields.io/badge/🌐_Intro_Cloud_S2-FF9900?style=for-the-badge&logoColor=white)
+![Ethical Hacker](https://img.shields.io/badge/🎭_Ethical_Hacker-1a1b27?style=for-the-badge&logoColor=00F7FF)
+![Cybersecurity Intro](https://img.shields.io/badge/🔒_Intro_Cybersecurity-1a1b27?style=for-the-badge&logoColor=00F7FF)
+![Network Defense](https://img.shields.io/badge/🛡️_Network_Defense-1a1b27?style=for-the-badge&logoColor=00F7FF)
+![Threat Management](https://img.shields.io/badge/⚠️_Threat_Management-1a1b27?style=for-the-badge&logoColor=00F7FF)
+![Endpoint Security](https://img.shields.io/badge/🖥️_Endpoint_Security-1a1b27?style=for-the-badge&logoColor=00F7FF)
+
+<br/>
+
+**☁️ AWS Academy**
+
+![Cloud Foundations](https://img.shields.io/badge/☁️_Cloud_Foundations-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Data Engineering](https://img.shields.io/badge/📊_Data_Engineering-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Cloud Operations](https://img.shields.io/badge/⚙️_Cloud_Operations-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Intro Cloud S1](https://img.shields.io/badge/🌐_Intro_Cloud_S1-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Intro Cloud S2](https://img.shields.io/badge/🌐_Intro_Cloud_S2-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🚀 Proyectos Destacados
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    ADVANCED METRICS DISPLAY                     -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 📊 Analytics:~/stats
 
 <div align="center">
 
-### 🔥 **Proyectos**
+<img src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMieres&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=00F7FF&dates=AAAAAA" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonMieres&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area_color=001133&area=true&hide_border=true&custom_title=Contribuciones" width="97%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BrandonMieres&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      PROYECTOS DESTACADOS                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🚀 Repositories:~/projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=🔥+Portafolio+de+herramientas+de+seguridad;Código+abierto+·+Ético+·+En+producción" />
 
 </div>
 
@@ -168,164 +201,202 @@
 <tr>
 <td width="33%">
 
-### 📱 **[DarKSMS](https://github.com/BrandonMieres/DarKSMS)**
+### 🔍 [HackingTools](https://github.com/BrandonMieres/HackingTools)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Cross-Platform](https://img.shields.io/badge/Platform-🌍_Multi-blue?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Activo-00F7FF?style=flat-square&logo=statuspage&logoColor=white)](#)
+![Stars](https://img.shields.io/github/stars/BrandonMieres/HackingTools?style=flat-square&color=yellow)
+
+Suite completa de **pentesting ético**
+
+- 🎯 Escaneo de puertos con precisión
+- 📊 Informes detallados de auditoría
+- ⚡ 40% más rápido que alternativas
+
+**[Ver Código →](https://github.com/BrandonMieres/HackingTools)**
+
+</td>
+<td width="33%">
+
+### 📱 [DarKSMS](https://github.com/BrandonMieres/DarKSMS)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Multi_Platform-00F7FF?style=flat-square&logo=windows&logoColor=white)](#)
 ![Stars](https://img.shields.io/github/stars/BrandonMieres/DarKSMS?style=flat-square&color=yellow)
 
-**Análisis ético de sistemas SMS/OTP**
+Análisis ético de **sistemas SMS/OTP**
+
 - 🤖 Simulación de interacciones humanas
 - 🔄 Rotación dinámica de User-Agent
 - 🌐 Soporte multiplataforma completo
-- 🔗 **[Ver Código →](https://github.com/BrandonMieres/DarKSMS)**
+
+**[Ver Código →](https://github.com/BrandonMieres/DarKSMS)**
 
 </td>
 <td width="33%">
 
-### 🌐 **[PacketShadow](https://github.com/BrandonMieres/PacketShadow)**
+### 🌐 [PacketShadow](https://github.com/BrandonMieres/PacketShadow)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Networking](https://img.shields.io/badge/ARP-🔗_Spoofing-orange?style=flat-square)](#)
+[![Type](https://img.shields.io/badge/ARP_Spoofing-00F7FF?style=flat-square&logo=wireshark&logoColor=white)](#)
 ![Stars](https://img.shields.io/github/stars/BrandonMieres/PacketShadow?style=flat-square&color=yellow)
 
-**Reconocimiento avanzado de redes**
+Reconocimiento **avanzado de redes**
+
 - 🕸️ Mapeo multihilo ultrarrápido
-- 📡 Identificación via base IEEE OUI
+- 📡 Identificación via IEEE OUI
 - 🎨 Interfaz visual intuitiva
-- 🔗 **[Ver Código →](https://github.com/BrandonMieres/PacketShadow)**
+
+**[Ver Código →](https://github.com/BrandonMieres/PacketShadow)**
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
-<td width="50%">
+<td colspan="2" width="66%">
 
-### 📦 **[ShadowBox](https://github.com/BrandonMieres/ShadowBox)**
+### 📦 [ShadowBox](https://github.com/BrandonMieres/ShadowBox)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 ![Stars](https://img.shields.io/github/stars/BrandonMieres/ShadowBox?style=flat-square&color=yellow)
 
-**Plataforma de automatización moderna**
+Plataforma de **automatización moderna** con diseño glassmorphism
+
 - ⚡ Backend Python con playbooks eficientes
 - 🎨 Frontend React con diseño glassmorphism
 - 🔒 Autenticación con protección anti-brute force
-- 🔗 **[Ver Código →](https://github.com/BrandonMieres/ShadowBox)** | **[🌐 Demo Live →](https://v0-react-glassmorphism-design-8u.vercel.app/)**
+
+**[Ver Código →](https://github.com/BrandonMieres/ShadowBox)** &nbsp;|&nbsp; **[🌐 Demo Live →](https://v0-react-glassmorphism-design-8u.vercel.app/)**
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🛠️ **[Gestión de Incidencias IT](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)**
+### 🛠️ [Gestión Incidencias IT](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![Status](https://img.shields.io/badge/Estado-🟢_Producción-green?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Producción-00F7FF?style=flat-square&logo=statuspage&logoColor=white)](#)
 ![Stars](https://img.shields.io/github/stars/BrandonMieres/Gestion-de-incidencias-IT?style=flat-square&color=yellow)
 
-**Sistema empresarial de tickets IT**
+Sistema empresarial de **tickets IT**
+
 - 📝 Automatización completa de incidencias
-- 📈 Métricas avanzadas y KPIs detallados
-- 👥 Interfaz intuitiva para usuarios finales
-- 🔗 **[Ver Código →](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)**
+- 📈 Métricas avanzadas y KPIs
+- 👥 Interfaz intuitiva
+
+**[Ver Código →](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)**
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 📊 Estadísticas de GitHub
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      OBJETIVOS 2025                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🎯 Targets:~/2025
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats">
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+
+**AWS Solutions Architect**
+
+![progress](https://img.shields.io/badge/En_Progreso-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
 </td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages">
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
+
+**CEH Certified**
+
+![progress](https://img.shields.io/badge/En_Progreso-E74C3C?style=flat-square&logo=hackthebox&logoColor=white)
+
 </td>
-</tr>
-</table>
+<td align="center" width="25%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMieres&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak">
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" />
 
-### 📈 **Contribuciones del Año**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonMieres&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
+**Kubernetes Expert**
 
-### 🏆 **Trofeos de GitHub**
-<img src="https://github-profile-trophy.vercel.app/?username=BrandonMieres&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+![progress](https://img.shields.io/badge/Estudiando-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-</div>
-
----
-
-## 🎯 Objetivos 2025
-
-<div align="center">
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🎖️-AWS_Solutions_Architect-FF9900?style=for-the-badge" alt="AWS Solutions Architect">
-<br><strong>Certificación AWS</strong>
 </td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🔐-CEH_Certified-E74C3C?style=for-the-badge" alt="CEH Certified">
-<br><strong>Ethical Hacker</strong>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🚀-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<br><strong>Especialización K8s</strong>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🌟-Open_Source-00D4AA?style=for-the-badge" alt="Open Source">
-<br><strong>Contribuciones</strong>
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
+
+**Open Source**
+
+![progress](https://img.shields.io/badge/Activo-00D4AA?style=flat-square&logo=github&logoColor=white)
+
 </td>
 </tr>
 </table>
 
-### 🚧 **En Desarrollo**
-```bash
-[████████████████████████████████████████] 85% Framework de Pentesting Personalizado
-[███████████████████████████████████████ ] 80% Laboratorio de Ciberseguridad Virtual
-[█████████████████████████████████████▌  ] 75% Plataforma de Formación en Seguridad
-[███████████████████████████████████▌    ] 65% Herramientas de Automatización DevSecOps
+<br/>
+
+### 🚧 En Desarrollo
+
+```text
+Framework de Pentesting Personalizado  ████████████████████░░░  85%
+Laboratorio de Ciberseguridad Virtual  ████████████████████░░░░  80%
+Plataforma de Formación en Seguridad   ██████████████████░░░░░░  75%
+Herramientas DevSecOps                 ████████████████░░░░░░░░  65%
 ```
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🤝 ¿Quieres Conocerme Más?
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    CONTACTO / COLABORA                          -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Contact:~/collaborate
 
 <div align="center">
 
-### 🌐 **Visita Mi Portfolio**
+[![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF)](https://portfolio-brandon-mieres.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-brandon-mieres.vercel.app)
+<br/>
 
-### 🔥 **Áreas de Colaboración**
 ```
 🔐 Proyectos de Ciberseguridad    🌐 Desarrollo Web Seguro    🚀 DevSecOps
 🛡️ Auditorías de Seguridad       ☁️ Infraestructura Cloud    🤖 Automatización
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=%C2%A1Cont%C3%A1ctame+para+hackear+la+matriz!;%F0%9F%A4%9D+Abierto+a+colaboraciones;%E2%9A%A1+Powered+by+caf%C3%A9+y+c%C3%B3digo" alt="Contact Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=520&height=80&lines=🤝+Abierto+a+colaboraciones+y+proyectos;⚡+Contáctame+para+hackear+la+matriz+🔓;☕+Powered+by+café+%2B+código+%2B+pasión" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER ANIMADO                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🌟 **"La ciberseguridad no es solo mi profesión, es mi pasión"** 🌟
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+<br/>
 
----
+### 🌟 *"La ciberseguridad no es solo mi profesión, es mi pasión"* 🌟
 
-**⚡ Powered by:** `Café` • `Código` • `Curiosidad Infinita` • `Ciberseguridad` ☕
+**⚡ Powered by:** `Café` · `Código` · `Curiosidad Infinita` · `Ciberseguridad` ☕
 
-<sub>🔒 *"En un mundo conectado, la seguridad es responsabilidad de todos; de un hacker ético (a veces)."* 🔒</sub>
+<sub>🔒 *"En un mundo conectado, la seguridad es responsabilidad de todos."* 🔒</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer&reversal=true&animation=twinkling" />
 
 </div>
