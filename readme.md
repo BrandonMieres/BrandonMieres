@@ -1,402 +1,272 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    NEO-CYBER HEADER BANNER                      -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- LOCAL ANIMATED BANNER (LIGHT/DARK) -->
+<a href="https://github.com/BrandonMieres">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" width="960" alt="Perfil SysAdmin y Pentester de Brandon Mieres">
+  </picture>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:00F7FF&height=220&section=header&text=BRANDON%20MIERES&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=00F7FF&strokeWidth=3&desc=SYSADMIN%20·%20PENTESTER%20·%20DEVOPS&descAlignY=65&descSize=18&animation=twinkling" />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7FF&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%3E%3E+SYSTEM+INITIATED...;%3E%3E+SECURE+INFRASTRUCTURES...;%3E%3E+ETHICAL+HACKING+ENABLED...;%3E%3E+STATUS:+ALWAYS+LEARNING" />
+<!-- TYPING TERMINAL BANNER -->
+<a href="https://github.com/BrandonMieres">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=c7a4f5&center=true&vCenter=true&width=900&lines=Brandon+Mieres+%E2%80%94+SysAdmin+%C2%B7+Pentester+%C2%B7+DevOps;Defense-in-Depth+%7C+Ethical+Hacking+%7C+Cloud+Infra;Zero-Trust+%E2%80%A2+Docker+%26+Arch+Linux+%E2%80%A2+Hardening;Caf%C3%A9+-+Terminal+-+Linux+-+Security+-+Always+Learning" alt="Banner animado de Brandon Mieres">
+</a>
 
-<br/>
+<br>
 
-<!-- UNIFIED THEME BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&labelColor=0D1117&color=00F7FF)](https://portfolio-brandon-mieres.vercel.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/💬_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0D1117&color=00F7FF)](https://www.linkedin.com/in/brandon-mieres)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=BrandonMieres&color=00F7FF&style=for-the-badge&label=VISITS)
+<img src="https://komarev.com/ghpvc/?username=BrandonMieres&style=flat-square&color=c7a4f5&label=profile+views" alt="profile views">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                        USER PROFILE                             -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+## `$ whoami`
 
-## 👾 Terminal:~/whoami
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con perfil de Brandon Mieres, SysAdmin y Pentester">
+</p>
 
-<table>
-<tr>
-<td width="55%">
+<br>
 
-```yaml
-system_info:
-  host:      "BrandonMieres"
-  os:        "Spain (ES) 🇪🇸"
-  status:    "Admin"
-  
-capabilities:
-  - "Defense-in-Depth 🛡️"
-  - "Security Auditor 🕵️‍♂️"
-  - "Workflow Automation ⚙️"
+<div align="center">
 
-# current_focus
-target_2025: [AWS_SAA, CEH, K8S_EXP]
-```
+## `$ cat tech-stack.yaml`
 
-</td>
-<td width="45%">
-
-### 💡 Core Directives
-
-> *"El conocimiento es infinito, por eso mi meta es seguir aprendiendo un poco más cada día."*
-
-**Priority Execution:**
-- 🟢 Infraestructuras de alta disponibilidad
-- 🔵 Modelos de seguridad Zero-Trust
-- 🟡 Escalado de pipelines DevSecOps
-- ⚪ Ciclo de aprendizaje activo 24/7
-
-</td>
-</tr>
+<table border="1" cellpadding="14" bgcolor="#0d1628">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>brandon-mieres:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,docker,ansible,linux,proxmox" alt="AWS, Docker, Ansible, Linux, Proxmox">
+        <img src="https://cdn.simpleicons.org/archlinux/c7a4f5?viewbox=auto" height="48" alt="Arch Linux"><br>
+        <sub><code>AWS · Docker · Ansible · Linux · Proxmox · VirtualBox · Arch Linux</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_pentesting:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux">
+        <img src="https://cdn.simpleicons.org/wireshark/c7a4f5?viewbox=auto" height="48" alt="Wireshark">
+        <img src="https://cdn.simpleicons.org/burpsuite/f78ca0?viewbox=auto" height="48" alt="Burp Suite">
+        <img src="https://cdn.simpleicons.org/metasploit/c7a4f5?viewbox=auto" height="48" alt="Metasploit">
+        <br>
+        <sub><code>Kali Linux · Wireshark · Burp Suite · Metasploit · Nmap</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ⚙ devops_sysadmin:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,nginx,vscode,bash" alt="Git, GitHub, GitHub Actions, Nginx, VS Code, Bash"><br>
+        <img src="https://skillicons.dev/icons?i=powershell,windows" alt="PowerShell, Windows Server"><br>
+        <sub><code>Git · GitHub Actions · Nginx · Apache · WireGuard · Samba · BIND9 · SSH · PowerShell · Bash</code></sub>
+      </td>
+      <td valign="top"><code>├─ ▣ databases_storage:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle" alt="PostgreSQL, MySQL, MongoDB, Oracle"><br>
+        <sub><code>PostgreSQL · MySQL · MongoDB · Oracle PL/SQL · Active Directory</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,react,nextjs,electron,astro" alt="Python, PHP, JavaScript, HTML, CSS, React, Next.js, Electron, Astro"><br>
+        <sub><code>Python · PHP · JavaScript · React · Next.js · Electron · Astro · HTML · CSS</code></sub>
+      </td>
+      <td valign="top"><code>╰─ 🛡 security_frameworks:</code><br><br>
+        <img src="https://cdn.simpleicons.org/owasp/c7a4f5?viewbox=auto" height="48" alt="OWASP">
+        <img src="https://cdn.simpleicons.org/paloaltonetworks/f78ca0?viewbox=auto" height="48" alt="Palo Alto Networks">
+        <img src="https://cdn.simpleicons.org/cisco/76d8d2?viewbox=auto" height="48" alt="Cisco">
+        <br>
+        <sub><code>Zero-Trust · Defense-in-Depth · SIEM · GPO · DNS · DHCP · IPv4/IPv6</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production&nbsp;&nbsp;·&nbsp;&nbsp;defense_mode: active</code></td>
+    </tr>
+  </tfoot>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    HARDWARE & SOFTWARE STACK                    -->
-<!-- ════════════════════════════════════════════════════════════════ -->
+---
 
-## 🛠️ Stack:~/arsenal
+## `$ nmap -sV security-signals`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-dark.svg" width="390" alt="Radar de competencias en Ciberseguridad y DevOps">
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+    <img src="assets/radar-langs-dark.svg" width="370" alt="Radar de lenguajes y scripting">
+  </picture>
+</p>
+
+<p align="center"><sub><code>signals: security_devops_radar · language_stack_radar · status: healthy</code></sub></p>
+
+---
+
+## `$ git log --oneline`
 
 <div align="center">
 
-### 💻 Lenguajes & Scripting
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&count_private=true&include_all_commits=true&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628&hide_border=false&rank_icon=github" alt="GitHub Stats de Brandon Mieres">&nbsp;&nbsp;<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&langs_count=8&title_color=c7a4f5&text_color=F0E6F0&border_color=25344C&bg_color=0D1628&hide_border=false" alt="Lenguajes más usados">
 
-<img src="https://skillicons.dev/icons?i=python,bash,html,css,php,js&theme=dark&perline=6" />
+<br><br>
 
-### ☁️ Cloud & Infraestructura
+<img src="https://streak-stats.demolab.com/?user=BrandonMieres&background=0D1628&ring=c7a4f5&fire=f78ca0&currStreakNum=F0E6F0&sideNums=F0E6F0&currStreakLabel=c7a4f5&sideLabels=8291A8&dates=8291A8&border=25344C&stroke=25344C" alt="GitHub Streak Stats de Brandon Mieres">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,ansible,linux&theme=dark&perline=6" />
+<br>
 
-### 🔧 DevOps & Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx,postgres,mysql&theme=dark&perline=6" />
-
-### 🔐 Ciberseguridad
-
-[![Kali](https://img.shields.io/badge/Kali_Linux-1a1b27?style=for-the-badge&logo=kali-linux&logoColor=00F7FF)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-1a1b27?style=for-the-badge&logo=metasploit&logoColor=00F7FF)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1a1b27?style=for-the-badge&logo=wireshark&logoColor=00F7FF)](#)
-[![BurpSuite](https://img.shields.io/badge/Burp_Suite-1a1b27?style=for-the-badge&logo=burpsuite&logoColor=00F7FF)](#)
-[![Nmap](https://img.shields.io/badge/Nmap-1a1b27?style=for-the-badge&logo=gnometerminal&logoColor=00F7FF)](#)
+<sub><code>visibility: public + private · streak: maintained · repos: active</code></sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    FORMACIÓN ACADÉMICA                          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🎓 Credentials:~/education
+## `$ cat credentials.json`
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-**🎓 Técnico Superior en Administración de Sistemas en Red**
-*INS Sapalomera, Blanes, España* · `2022 – 2025`
+### 🎓 Formación Académica
 
-> Infraestructura de red empresarial · Virtualización y contenedores · Seguridad de sistemas críticos
+**🎓 Técnico Superior en ASIR**  
+<sub>Administración de Sistemas Informáticos en Red</sub>  
+*Universitat Oberta de Catalunya (UOC), Barcelona* · `2024 – 2026`
 
-</td>
-</tr>
-<tr>
-<td>
+> Administración de sistemas operativos, redes, servicios de red e Internet, bases de datos, seguridad y alta disponibilidad.
 
-**💻 Técnico en Sistemas Microinformáticos y Redes**
+<br>
+
+**💻 Técnico en SMR**  
+<sub>Sistemas Microinformáticos y Redes</sub>  
 *INS Freta, Calella, España* · `2020 – 2022`
 
-> Hardware y arquitectura de sistemas · Sistemas operativos y redes LAN · Soporte técnico especializado
+> Montaje, mantenimiento de sistemas informáticos, redes locales cableadas e inalámbricas y soporte especializado.
+
+<br>
+
+### 💼 Experiencia
+
+**🖥️ Técnico de Sistemas y Soporte** *(Prácticas)*  
+*Freta, Calella* · `2021 – 2022`
+
+- Diagnóstico y resolución de incidencias en equipos y sistemas
+- Mantenimiento de servidores, redes y bases de datos
+- Soporte técnico a usuarios y optimización de rendimiento
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Certificaciones
+
+**🔐 Cisco Networking Academy** · `2025`
+
+![Network Defense](https://img.shields.io/badge/Network_Defense-0d1628?style=for-the-badge&logo=cisco&logoColor=c7a4f5)
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-0d1628?style=for-the-badge&logo=cisco&logoColor=c7a4f5)
+![Cyber Threat Management](https://img.shields.io/badge/Cyber_Threat_Management-0d1628?style=for-the-badge&logo=cisco&logoColor=76d8d2)
+![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-0d1628?style=for-the-badge&logo=cisco&logoColor=76d8d2)
+![Intro to Cybersecurity](https://img.shields.io/badge/Intro_to_Cybersecurity-0d1628?style=for-the-badge&logo=cisco&logoColor=f78ca0)
+![Python Essentials 1 & 2](https://img.shields.io/badge/Python_Essentials_1_%26_2-0d1628?style=for-the-badge&logo=cisco&logoColor=f78ca0)
+
+<br>
+
+**☁️ AWS Academy** · `2024`
+
+![Cloud Foundations](https://img.shields.io/badge/Cloud_Foundations-0d1628?style=for-the-badge&logo=amazonaws&logoColor=f3d29b)
+![Cloud Operations](https://img.shields.io/badge/Cloud_Operations-0d1628?style=for-the-badge&logo=amazonaws&logoColor=f3d29b)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0d1628?style=for-the-badge&logo=amazonaws&logoColor=f3d29b)
+
+<br>
+
+**🗄️ Oracle Academy** · `2026`
+
+![Database Programming PL/SQL](https://img.shields.io/badge/Database_Programming_PL%2FSQL-0d1628?style=for-the-badge&logo=oracle&logoColor=f78ca0)
+
+<br>
+
+**🤖 Elements of AI** · `2026`
+
+![Elements of AI](https://img.shields.io/badge/Elements_of_AI_50h-0d1628?style=for-the-badge&logo=pytorch&logoColor=c7a4f5)
+
+<br>
+
+<sub>🔗 Verificables en <a href="https://credly.com/users/brandon-mieres/badges">Credly → brandon-mieres</a></sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                     CERTIFICACIONES                             -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🏆 Certs:~/certifications
+## `$ ls -la featured-projects/`
 
 <div align="center">
 
-**🔐 Cisco Cybersecurity**
+<a href="https://github.com/BrandonMieres/-Syncro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonMieres&repo=-Syncro&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628" alt="Syncro">
+</a>&nbsp;&nbsp;<a href="https://github.com/BrandonMieres/PacketShadow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonMieres&repo=PacketShadow&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628" alt="PacketShadow">
+</a>
 
-![Ethical Hacker](https://img.shields.io/badge/🎭_Ethical_Hacker-1a1b27?style=for-the-badge&logoColor=00F7FF)
-![Cybersecurity Intro](https://img.shields.io/badge/🔒_Intro_Cybersecurity-1a1b27?style=for-the-badge&logoColor=00F7FF)
-![Network Defense](https://img.shields.io/badge/🛡️_Network_Defense-1a1b27?style=for-the-badge&logoColor=00F7FF)
-![Threat Management](https://img.shields.io/badge/⚠️_Threat_Management-1a1b27?style=for-the-badge&logoColor=00F7FF)
-![Endpoint Security](https://img.shields.io/badge/🖥️_Endpoint_Security-1a1b27?style=for-the-badge&logoColor=00F7FF)
+<br>
 
-<br/>
+<a href="https://github.com/T4d0m3/ShadowBox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=T4d0m3&repo=ShadowBox&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628" alt="ShadowBox — TFG ASIR">
+</a>&nbsp;&nbsp;<a href="https://github.com/BrandonMieres/Gestion-de-incidencias-IT2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonMieres&repo=Gestion-de-incidencias-IT2&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628" alt="Gestión de Incidencias IT">
+</a>
 
-**☁️ AWS Academy**
+<br>
 
-![Cloud Foundations](https://img.shields.io/badge/☁️_Cloud_Foundations-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Data Engineering](https://img.shields.io/badge/📊_Data_Engineering-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Cloud Operations](https://img.shields.io/badge/⚙️_Cloud_Operations-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Intro Cloud S1](https://img.shields.io/badge/🌐_Intro_Cloud_S1-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Intro Cloud S2](https://img.shields.io/badge/🌐_Intro_Cloud_S2-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+<a href="https://github.com/BrandonMieres/urbx-concept">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BrandonMieres&repo=urbx-concept&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628" alt="URBX — Frontend Lab">
+</a>
+
+<br>
+
+<sub><code>📌 ShadowBox es el TFG de ASIR (coautoría) · Flask · Ansible · React</code></sub>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    ADVANCED METRICS DISPLAY                     -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 📊 Analytics:~/stats
+## `$ connect --socials`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BrandonMieres&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideNums=00F7FF&dates=AAAAAA" width="60%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonMieres&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FF6B6B&area_color=001133&area=true&hide_border=true&custom_title=Contribuciones" width="97%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BrandonMieres&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="90%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                      PROYECTOS DESTACADOS                       -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🚀 Repositories:~/projects
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=00F7FF&center=true&vCenter=true&width=500&lines=🔥+Portafolio+de+herramientas+de+seguridad;Código+abierto+·+Ético+·+En+producción" />
-
-</div>
-
-<table>
-<tr>
-<td width="33%">
-
-### 🔍 [HackingTools](https://github.com/BrandonMieres/HackingTools)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Activo-00F7FF?style=flat-square&logo=statuspage&logoColor=white)](#)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/HackingTools?style=flat-square&color=yellow)
-
-Suite completa de **pentesting ético**
-
-- 🎯 Escaneo de puertos con precisión
-- 📊 Informes detallados de auditoría
-- ⚡ 40% más rápido que alternativas
-
-**[Ver Código →](https://github.com/BrandonMieres/HackingTools)**
-
-</td>
-<td width="33%">
-
-### 📱 [DarKSMS](https://github.com/BrandonMieres/DarKSMS)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Multi_Platform-00F7FF?style=flat-square&logo=windows&logoColor=white)](#)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/DarKSMS?style=flat-square&color=yellow)
-
-Análisis ético de **sistemas SMS/OTP**
-
-- 🤖 Simulación de interacciones humanas
-- 🔄 Rotación dinámica de User-Agent
-- 🌐 Soporte multiplataforma completo
-
-**[Ver Código →](https://github.com/BrandonMieres/DarKSMS)**
-
-</td>
-<td width="33%">
-
-### 🌐 [PacketShadow](https://github.com/BrandonMieres/PacketShadow)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Type](https://img.shields.io/badge/ARP_Spoofing-00F7FF?style=flat-square&logo=wireshark&logoColor=white)](#)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/PacketShadow?style=flat-square&color=yellow)
-
-Reconocimiento **avanzado de redes**
-
-- 🕸️ Mapeo multihilo ultrarrápido
-- 📡 Identificación via IEEE OUI
-- 🎨 Interfaz visual intuitiva
-
-**[Ver Código →](https://github.com/BrandonMieres/PacketShadow)**
-
-</td>
-</tr>
-<tr>
-<td colspan="2" width="66%">
-
-### 📦 [ShadowBox](https://github.com/BrandonMieres/ShadowBox)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/ShadowBox?style=flat-square&color=yellow)
-
-Plataforma de **automatización moderna** con diseño glassmorphism
-
-- ⚡ Backend Python con playbooks eficientes
-- 🎨 Frontend React con diseño glassmorphism
-- 🔒 Autenticación con protección anti-brute force
-
-**[Ver Código →](https://github.com/BrandonMieres/ShadowBox)** &nbsp;|&nbsp; **[🌐 Demo Live →](https://v0-react-glassmorphism-design-8u.vercel.app/)**
-
-</td>
-<td width="33%">
-
-### 🛠️ [Gestión Incidencias IT](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
-[![Status](https://img.shields.io/badge/Producción-00F7FF?style=flat-square&logo=statuspage&logoColor=white)](#)
-![Stars](https://img.shields.io/github/stars/BrandonMieres/Gestion-de-incidencias-IT?style=flat-square&color=yellow)
-
-Sistema empresarial de **tickets IT**
-
-- 📝 Automatización completa de incidencias
-- 📈 Métricas avanzadas y KPIs
-- 👥 Interfaz intuitiva
-
-**[Ver Código →](https://github.com/BrandonMieres/Gestion-de-incidencias-IT)**
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                      OBJETIVOS 2025                             -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🎯 Targets:~/2025
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
-
-**AWS Solutions Architect**
-
-![progress](https://img.shields.io/badge/En_Progreso-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=kali&theme=dark" />
-
-**CEH Certified**
-
-![progress](https://img.shields.io/badge/En_Progreso-E74C3C?style=flat-square&logo=hackthebox&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" />
-
-**Kubernetes Expert**
-
-![progress](https://img.shields.io/badge/Estudiando-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" />
-
-**Open Source**
-
-![progress](https://img.shields.io/badge/Activo-00D4AA?style=flat-square&logo=github&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🚧 En Desarrollo
-
-```text
-Framework de Pentesting Personalizado  ████████████████████░░░  85%
-Laboratorio de Ciberseguridad Virtual  ████████████████████░░░░  80%
-Plataforma de Formación en Seguridad   ██████████████████░░░░░░  75%
-Herramientas DevSecOps                 ████████████████░░░░░░░░  65%
-```
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                    CONTACTO / COLABORA                          -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-## 🤝 Contact:~/collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF)](https://portfolio-brandon-mieres.vercel.app)
-
-<br/>
-
-```
-🔐 Proyectos de Ciberseguridad    🌐 Desarrollo Web Seguro    🚀 DevSecOps
-🛡️ Auditorías de Seguridad       ☁️ Infraestructura Cloud    🤖 Automatización
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=520&height=80&lines=🤝+Abierto+a+colaboraciones+y+proyectos;⚡+Contáctame+para+hackear+la+matriz+🔓;☕+Powered+by+café+%2B+código+%2B+pasión" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- ════════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER ANIMADO                            -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
+<a href="https://portfolio-brandon-mieres.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-c7a4f5?style=for-the-badge&logo=vercel&logoColor=0d1628" alt="Portfolio">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/brandon-mieres">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/BrandonMieres">
+  <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&logo=github&logoColor=0d1628" alt="GitHub">
+</a>&nbsp;&nbsp;
+<a href="https://credly.com/users/brandon-mieres/badges">
+  <img src="https://img.shields.io/badge/Credly-f78ca0?style=for-the-badge&logo=credly&logoColor=0d1628" alt="Credly Badges">
+</a>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="960">
 </picture>
 
-<br/>
+<br><br>
 
-### 🌟 *"La ciberseguridad no es solo mi profesión, es mi pasión"* 🌟
-
-**⚡ Powered by:** `Café` · `Código` · `Curiosidad Infinita` · `Ciberseguridad` ☕
-
-<sub>🔒 *"En un mundo conectado, la seguridad es responsabilidad de todos."* 🔒</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer&reversal=true&animation=twinkling" />
+<sub>🔒 <em>"En un mundo interconectado, la seguridad no es una opción, es una responsabilidad."</em> · Brandon Mieres · Terrassa 🇪🇸</sub>
 
 </div>
