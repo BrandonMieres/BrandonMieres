@@ -54,10 +54,10 @@
       <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_networks:</code><br><br>
         <img src="https://cdn.simpleicons.org/cisco?viewbox=auto" height="48" alt="Cisco">
         <img src="https://cdn.simpleicons.org/wireshark?viewbox=auto" height="48" alt="Wireshark">
-        <img src="https://cdn.simpleicons.org/kalilinux?viewbox=auto" height="48" alt="Kali Linux">
-        <img src="https://cdn.simpleicons.org/parrotsecurity?viewbox=auto" height="48" alt="Parrot Security">
+        <img src="https://cdn.simpleicons.org/wireguard?viewbox=auto" height="48" alt="WireGuard">
+        <img src="https://cdn.simpleicons.org/openvpn?viewbox=auto" height="48" alt="OpenVPN">
         <br>
-        <sub><code>Cisco · Wireshark · Kali Linux · Parrot Security · Network Security · Traffic Analysis</code></sub>
+        <sub><code>Cisco · Wireshark · WireGuard · OpenVPN · Network Security · Traffic Analysis</code></sub>
       </td>
     </tr>
     <tr>
