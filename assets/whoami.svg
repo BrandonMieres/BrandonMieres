@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" width="960" height="390" role="img" aria-labelledby="title desc">
-  <title id="title">Brandon Mieres — SysAdmin · Pentester · DevOps</title>
-  <desc id="desc">Terminal profile card with Brandon Mieres technical expertise, mission and security focus.</desc>
+  <title id="title">Brandon Mieres — SysAdmin · DevOps · Cloud</title>
+  <desc id="desc">Terminal profile card with Brandon Mieres technical expertise, systems administration and cloud infrastructure focus.</desc>
   <defs>
     <linearGradient id="purpleGradient" x1="0" x2="1" y1="0" y2="1">
       <stop stop-color="#c7a4f5"/>
@@ -20,7 +20,7 @@
   <circle cx="35" cy="35" r="5" fill="#f3a0b5"/>
   <circle cx="54" cy="35" r="5" fill="#f1d09a"/>
   <circle cx="73" cy="35" r="5" fill="#9de4d1"/>
-  <text x="98" y="41" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">brandon-mieres  ·  security terminal  ·  status: online 🟢</text>
+  <text x="98" y="41" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">brandon-mieres  ·  sysadmin terminal  ·  status: online 🟢</text>
   <path d="M29 58H931" stroke="#343441"/>
 
   <!-- Left Main Terminal Box -->
@@ -29,7 +29,7 @@
   <text x="48" y="111" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">❯ whoami</text>
   <text x="48" y="142" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="600">brandon_mieres</text>
   <text x="206" y="142" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">—</text>
-  <text x="231" y="142" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">SysAdmin · Pentester · DevOps</text>
+  <text x="231" y="142" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">SysAdmin · DevOps · Cloud</text>
 
   <path d="M48 163H604" stroke="#343441"/>
   
@@ -37,22 +37,22 @@
   <text x="146" y="190" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Spain (ES) 🇪🇸</text>
   
   <text x="48" y="215" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">mission:</text>
-  <text x="146" y="215" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">proteger infraestructuras críticas y automatizar procesos</text>
+  <text x="146" y="215" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">administrar infraestructuras, redes y automatizar procesos</text>
 
   <text x="48" y="254" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">❯ ls expertise/</text>
   
   <text x="48" y="282" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">security/</text>
-  <text x="180" y="282" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Ethical Hacking · Pentesting · Network Defense · SIEM</text>
+  <text x="180" y="282" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Network Defense · Endpoint Security · SIEM · Hardening</text>
   
   <text x="48" y="307" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">cloud-infra/</text>
-  <text x="180" y="307" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">AWS · GCP · Docker · Kubernetes · Ansible</text>
+  <text x="180" y="307" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">AWS · Docker · Proxmox · VirtualBox · Ansible</text>
   
   <text x="48" y="332" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">systems/</text>
-  <text x="180" y="332" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Linux Hardening · Virtualización · Zero-Trust</text>
+  <text x="180" y="332" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Linux (Arch/Debian) · Windows Server · Active Directory</text>
 
   <!-- Right Side Cyber Radar / HUD Card -->
   <rect x="651" y="78" width="280" height="275" rx="9" fill="#1d1d23" stroke="#b99af0" stroke-width="1.5"/>
-  <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">security runtime</text>
+  <text x="674" y="111" fill="#f3d29b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">infrastructure runtime</text>
   
   <!-- Cyber radar / target concentric circles -->
   <circle cx="791" cy="190" r="52" fill="none" stroke="#343441" stroke-width="1.5"/>
@@ -63,7 +63,7 @@
   <path d="M791 134V246 M735 190H847" stroke="#343441" stroke-width="1.2" stroke-dasharray="3,3"/>
   <line x1="791" y1="190" x2="835" y2="152" stroke="#c7a4f5" stroke-width="2.2" filter="url(#glow)"/>
   
-  <text x="674" y="272" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">target_2025: <tspan fill="#c7a4f5">[AWS, CEH, K8S]</tspan></text>
-  <text x="674" y="296" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">defense_mode: <tspan fill="#9de4d1">Active Zero-Trust</tspan></text>
+  <text x="674" y="272" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">target_2026: <tspan fill="#c7a4f5">[ASIR, AWS, CCNA]</tspan></text>
+  <text x="674" y="296" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">defense_mode: <tspan fill="#9de4d1">Network Defense</tspan></text>
   <text x="674" y="320" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">status: <tspan fill="#f3a0b5">aprendiendo siempre</tspan></text>
 </svg>

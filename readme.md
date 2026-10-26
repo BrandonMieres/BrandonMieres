@@ -52,12 +52,12 @@
         <sub><code>AWS · Docker · Ansible · Linux · Proxmox · VirtualBox · Arch Linux</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_networks:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux">
+        <img src="https://cdn.simpleicons.org/cisco/76d8d2?viewbox=auto" height="48" alt="Cisco">
         <img src="https://cdn.simpleicons.org/wireshark/c7a4f5?viewbox=auto" height="48" alt="Wireshark">
-        <img src="https://cdn.simpleicons.org/burpsuite/f78ca0?viewbox=auto" height="48" alt="Burp Suite">
-        <img src="https://cdn.simpleicons.org/nmap/c7a4f5?viewbox=auto" height="48" alt="Nmap">
+        <img src="https://cdn.simpleicons.org/wireguard/c7a4f5?viewbox=auto" height="48" alt="WireGuard">
+        <img src="https://cdn.simpleicons.org/openvpn/f78ca0?viewbox=auto" height="48" alt="OpenVPN">
         <br>
-        <sub><code>Kali Linux · Wireshark · Burp Suite · Nmap · Network Analysis</code></sub>
+        <sub><code>Cisco · Wireshark · WireGuard · OpenVPN · Network Security · Traffic Analysis</code></sub>
       </td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="390" alt="Radar de competencias en Ciberseguridad y DevOps">
+    <img src="assets/radar-dark.svg" width="390" alt="Radar de competencias en SysAdmin, Redes y Cloud">
   </picture>&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
@@ -111,7 +111,7 @@
   </picture>
 </p>
 
-<p align="center"><sub><code>signals: security_devops_radar · language_stack_radar · status: healthy</code></sub></p>
+<p align="center"><sub><code>signals: sysadmin_cloud_radar · language_stack_radar · status: healthy</code></sub></p>
 
 ---
 
@@ -174,7 +174,7 @@
 **🔐 Cisco Networking Academy** · `2025`
 
 ![Network Defense](https://img.shields.io/badge/Network_Defense-0d1628?style=for-the-badge&logo=cisco&logoColor=c7a4f5)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-0d1628?style=for-the-badge&logo=cisco&logoColor=c7a4f5)
+![Network Support & Security](https://img.shields.io/badge/Network_Support_%26_Security-0d1628?style=for-the-badge&logo=cisco&logoColor=c7a4f5)
 ![Cyber Threat Management](https://img.shields.io/badge/Cyber_Threat_Management-0d1628?style=for-the-badge&logo=cisco&logoColor=76d8d2)
 ![Endpoint Security](https://img.shields.io/badge/Endpoint_Security-0d1628?style=for-the-badge&logo=cisco&logoColor=76d8d2)
 ![Intro to Cybersecurity](https://img.shields.io/badge/Intro_to_Cybersecurity-0d1628?style=for-the-badge&logo=cisco&logoColor=f78ca0)

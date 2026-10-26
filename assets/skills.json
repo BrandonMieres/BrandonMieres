@@ -1,8 +1,8 @@
 {
-  "title": "Security & DevOps Radar",
+  "title": "SysAdmin & Cloud Radar",
   "axes": [
     {
-      "label": "Pentesting & Ethical Hacking",
+      "label": "Network Defense & Security",
       "value": 90
     },
     {
@@ -10,20 +10,20 @@
       "value": 92
     },
     {
-      "label": "Network Defense & Audit",
+      "label": "Network Administration",
       "value": 88
     },
     {
-      "label": "Containers (Docker/K8s)",
-      "value": 80
+      "label": "Containers & Virtualization",
+      "value": 85
     },
     {
-      "label": "Cloud Infra (AWS/GCP)",
+      "label": "Cloud Infrastructure (AWS)",
       "value": 82
     },
     {
-      "label": "Automation & DevSecOps",
-      "value": 85
+      "label": "Automation & Scripting",
+      "value": 86
     }
   ]
 }
