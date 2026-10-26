@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-dark.svg" width="960" alt="Perfil SysAdmin y Pentester de Brandon Mieres">
+    <img src="assets/banner-dark.svg" width="960" alt="Perfil SysAdmin y DevOps de Brandon Mieres">
   </picture>
 </a>
 
@@ -13,7 +13,7 @@
 
 <!-- TYPING TERMINAL BANNER -->
 <a href="https://github.com/BrandonMieres">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=c7a4f5&center=true&vCenter=true&width=900&lines=Brandon+Mieres+%E2%80%94+SysAdmin+%C2%B7+Pentester+%C2%B7+DevOps;Defense-in-Depth+%7C+Ethical+Hacking+%7C+Cloud+Infra;Zero-Trust+%E2%80%A2+Docker+%26+Arch+Linux+%E2%80%A2+Hardening;Caf%C3%A9+-+Terminal+-+Linux+-+Security+-+Always+Learning" alt="Banner animado de Brandon Mieres">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=c7a4f5&center=true&vCenter=true&width=900&lines=Brandon+Mieres+%E2%80%94+SysAdmin+%C2%B7+DevOps;Cloud+Infra+%7C+Network+Security+%7C+Web+Dev;Docker+%E2%80%A2+Arch+Linux+%E2%80%A2+Automation;Caf%C3%A9+-+Terminal+-+Linux+-+Always+Learning" alt="Banner animado de Brandon Mieres">
 </a>
 
 <br>
@@ -27,7 +27,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="960" alt="Terminal con perfil de Brandon Mieres, SysAdmin y Pentester">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con perfil de Brandon Mieres, SysAdmin y DevOps">
 </p>
 
 <br>
@@ -45,17 +45,19 @@
   <tbody>
     <tr>
       <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=aws,docker,ansible,linux,proxmox" alt="AWS, Docker, Ansible, Linux, Proxmox">
+        <img src="https://skillicons.dev/icons?i=aws,docker,ansible,linux" alt="AWS, Docker, Ansible, Linux">
+        <img src="https://cdn.simpleicons.org/proxmox/c7a4f5?viewbox=auto" height="48" alt="Proxmox">
+        <img src="https://cdn.simpleicons.org/virtualbox/c7a4f5?viewbox=auto" height="48" alt="VirtualBox">
         <img src="https://cdn.simpleicons.org/archlinux/c7a4f5?viewbox=auto" height="48" alt="Arch Linux"><br>
         <sub><code>AWS · Docker · Ansible · Linux · Proxmox · VirtualBox · Arch Linux</code></sub>
       </td>
-      <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_pentesting:</code><br><br>
+      <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_networks:</code><br><br>
         <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux">
         <img src="https://cdn.simpleicons.org/wireshark/c7a4f5?viewbox=auto" height="48" alt="Wireshark">
         <img src="https://cdn.simpleicons.org/burpsuite/f78ca0?viewbox=auto" height="48" alt="Burp Suite">
-        <img src="https://cdn.simpleicons.org/metasploit/c7a4f5?viewbox=auto" height="48" alt="Metasploit">
+        <img src="https://cdn.simpleicons.org/nmap/c7a4f5?viewbox=auto" height="48" alt="Nmap">
         <br>
-        <sub><code>Kali Linux · Wireshark · Burp Suite · Metasploit · Nmap</code></sub>
+        <sub><code>Kali Linux · Wireshark · Burp Suite · Nmap · Network Analysis</code></sub>
       </td>
     </tr>
     <tr>
@@ -79,13 +81,13 @@
         <img src="https://cdn.simpleicons.org/paloaltonetworks/f78ca0?viewbox=auto" height="48" alt="Palo Alto Networks">
         <img src="https://cdn.simpleicons.org/cisco/76d8d2?viewbox=auto" height="48" alt="Cisco">
         <br>
-        <sub><code>Zero-Trust · Defense-in-Depth · SIEM · GPO · DNS · DHCP · IPv4/IPv6</code></sub>
+        <sub><code>OWASP · SIEM · Endpoint Security · GPO · DNS · DHCP · IPv4/IPv6</code></sub>
       </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production&nbsp;&nbsp;·&nbsp;&nbsp;defense_mode: active</code></td>
+      <td colspan="2"><code>status: ready&nbsp;&nbsp;·&nbsp;&nbsp;environment: production&nbsp;&nbsp;·&nbsp;&nbsp;mode: always_learning</code></td>
     </tr>
   </tfoot>
 </table>
