@@ -1,0 +1,29 @@
+{
+  "title": "Language & Scripting Radar",
+  "axes": [
+    {
+      "label": "Python",
+      "value": 90
+    },
+    {
+      "label": "Bash / Shell",
+      "value": 88
+    },
+    {
+      "label": "PHP",
+      "value": 75
+    },
+    {
+      "label": "JavaScript",
+      "value": 72
+    },
+    {
+      "label": "SQL (MySQL/PgSQL)",
+      "value": 78
+    },
+    {
+      "label": "YAML / IaC",
+      "value": 85
+    }
+  ]
+}

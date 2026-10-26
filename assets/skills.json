@@ -1,0 +1,29 @@
+{
+  "title": "Security & DevOps Radar",
+  "axes": [
+    {
+      "label": "Pentesting & Ethical Hacking",
+      "value": 90
+    },
+    {
+      "label": "SysAdmin & Linux",
+      "value": 92
+    },
+    {
+      "label": "Network Defense & Audit",
+      "value": 88
+    },
+    {
+      "label": "Containers (Docker/K8s)",
+      "value": 80
+    },
+    {
+      "label": "Cloud Infra (AWS/GCP)",
+      "value": 82
+    },
+    {
+      "label": "Automation & DevSecOps",
+      "value": 85
+    }
+  ]
+}
