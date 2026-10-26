@@ -46,18 +46,18 @@
     <tr>
       <td width="50%" valign="top"><code>├─ ☁ cloud_infrastructure:</code><br><br>
         <img src="https://skillicons.dev/icons?i=aws,docker,ansible,linux" alt="AWS, Docker, Ansible, Linux">
-        <img src="https://cdn.simpleicons.org/proxmox/c7a4f5?viewbox=auto" height="48" alt="Proxmox">
-        <img src="https://cdn.simpleicons.org/virtualbox/c7a4f5?viewbox=auto" height="48" alt="VirtualBox">
-        <img src="https://cdn.simpleicons.org/archlinux/c7a4f5?viewbox=auto" height="48" alt="Arch Linux"><br>
+        <img src="https://cdn.simpleicons.org/proxmox?viewbox=auto" height="48" alt="Proxmox">
+        <img src="https://cdn.simpleicons.org/virtualbox?viewbox=auto" height="48" alt="VirtualBox">
+        <img src="https://cdn.simpleicons.org/archlinux?viewbox=auto" height="48" alt="Arch Linux"><br>
         <sub><code>AWS · Docker · Ansible · Linux · Proxmox · VirtualBox · Arch Linux</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ 🔐 cybersecurity_networks:</code><br><br>
-        <img src="https://cdn.simpleicons.org/cisco/76d8d2?viewbox=auto" height="48" alt="Cisco">
-        <img src="https://cdn.simpleicons.org/wireshark/c7a4f5?viewbox=auto" height="48" alt="Wireshark">
-        <img src="https://cdn.simpleicons.org/wireguard/c7a4f5?viewbox=auto" height="48" alt="WireGuard">
-        <img src="https://cdn.simpleicons.org/openvpn/f78ca0?viewbox=auto" height="48" alt="OpenVPN">
+        <img src="https://cdn.simpleicons.org/cisco?viewbox=auto" height="48" alt="Cisco">
+        <img src="https://cdn.simpleicons.org/wireshark?viewbox=auto" height="48" alt="Wireshark">
+        <img src="https://cdn.simpleicons.org/kalilinux?viewbox=auto" height="48" alt="Kali Linux">
+        <img src="https://cdn.simpleicons.org/parrotsecurity?viewbox=auto" height="48" alt="Parrot Security">
         <br>
-        <sub><code>Cisco · Wireshark · WireGuard · OpenVPN · Network Security · Traffic Analysis</code></sub>
+        <sub><code>Cisco · Wireshark · Kali Linux · Parrot Security · Network Security · Traffic Analysis</code></sub>
       </td>
     </tr>
     <tr>
@@ -67,21 +67,14 @@
         <sub><code>Git · GitHub Actions · Nginx · Apache · WireGuard · Samba · BIND9 · SSH · PowerShell · Bash</code></sub>
       </td>
       <td valign="top"><code>├─ ▣ databases_storage:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle" alt="PostgreSQL, MySQL, MongoDB, Oracle"><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="PostgreSQL, MySQL, MongoDB"><br>
         <sub><code>PostgreSQL · MySQL · MongoDB · Oracle PL/SQL · Active Directory</code></sub>
       </td>
     </tr>
     <tr>
-      <td valign="top"><code>├─ ✦ languages_frameworks:</code><br><br>
+      <td colspan="2" valign="top"><code>╰─ ✦ languages_frameworks:</code><br><br>
         <img src="https://skillicons.dev/icons?i=python,php,javascript,html,css,react,nextjs,electron,astro" alt="Python, PHP, JavaScript, HTML, CSS, React, Next.js, Electron, Astro"><br>
         <sub><code>Python · PHP · JavaScript · React · Next.js · Electron · Astro · HTML · CSS</code></sub>
-      </td>
-      <td valign="top"><code>╰─ 🛡 security_frameworks:</code><br><br>
-        <img src="https://cdn.simpleicons.org/owasp/c7a4f5?viewbox=auto" height="48" alt="OWASP">
-        <img src="https://cdn.simpleicons.org/paloaltonetworks/f78ca0?viewbox=auto" height="48" alt="Palo Alto Networks">
-        <img src="https://cdn.simpleicons.org/cisco/76d8d2?viewbox=auto" height="48" alt="Cisco">
-        <br>
-        <sub><code>OWASP · SIEM · Endpoint Security · GPO · DNS · DHCP · IPv4/IPv6</code></sub>
       </td>
     </tr>
   </tbody>
