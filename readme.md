@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- LOCAL ANIMATED BANNER (LIGHT/DARK) -->
 <a href="https://github.com/BrandonMieres">
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&count_private=true&include_all_commits=true&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628&hide_border=false&rank_icon=github" alt="GitHub Stats de Brandon Mieres">&nbsp;&nbsp;<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&langs_count=8&title_color=c7a4f5&text_color=F0E6F0&border_color=25344C&bg_color=0D1628&hide_border=false" alt="Lenguajes más usados">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=BrandonMieres&show_icons=true&title_color=c7a4f5&text_color=F0E6F0&icon_color=f78ca0&border_color=25344C&bg_color=0D1628&hide_border=false&rank_icon=github" alt="GitHub Stats de Brandon Mieres">&nbsp;&nbsp;<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonMieres&layout=compact&langs_count=8&title_color=c7a4f5&text_color=F0E6F0&border_color=25344C&bg_color=0D1628&hide_border=false" alt="Lenguajes más usados">
 
 <br><br>
 
