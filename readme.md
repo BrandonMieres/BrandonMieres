@@ -249,9 +249,6 @@
 <a href="https://portfolio-brandon-mieres.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-c7a4f5?style=for-the-badge&logo=vercel&logoColor=0d1628" alt="Portfolio">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/brandon-mieres">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>&nbsp;&nbsp;
 <a href="https://github.com/BrandonMieres">
   <img src="https://img.shields.io/badge/GitHub-f78ca0?style=for-the-badge&logo=github&logoColor=0d1628" alt="GitHub">
 </a>&nbsp;&nbsp;
