@@ -33,22 +33,22 @@
 
   <path d="M48 163H604" stroke="#343441"/>
   
-  <text x="48" y="190" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">context:</text>
-  <text x="146" y="190" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Spain (ES) 🇪🇸</text>
+  <text x="48" y="190" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">context:</text>
+  <text x="146" y="190" fill="#c7a4f5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Spain (ES) 🇪🇸</text>
   
-  <text x="48" y="215" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">mission:</text>
-  <text x="146" y="215" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">administrar infraestructuras, redes y automatizar procesos</text>
+  <text x="48" y="215" fill="#8f91a8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">mission:</text>
+  <text x="146" y="215" fill="#9de4d1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">administrar infraestructuras y automatizar procesos</text>
 
-  <text x="48" y="254" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">❯ ls expertise/</text>
+  <text x="48" y="254" fill="#76d8d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700">❯ ls expertise/</text>
   
-  <text x="48" y="282" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">security/</text>
-  <text x="180" y="282" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Network Defense · Endpoint Security · SIEM · Hardening</text>
+  <text x="48" y="282" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">security/</text>
+  <text x="168" y="282" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Network Defense · Endpoint Security · SIEM</text>
   
-  <text x="48" y="307" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">cloud-infra/</text>
-  <text x="180" y="307" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">AWS · Docker · Proxmox · VirtualBox · Ansible</text>
+  <text x="48" y="307" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">cloud-infra/</text>
+  <text x="168" y="307" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">AWS · Docker · Proxmox · VirtualBox · Ansible</text>
   
-  <text x="48" y="332" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">systems/</text>
-  <text x="180" y="332" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">Linux (Arch/Debian) · Windows Server · Active Directory</text>
+  <text x="48" y="332" fill="#f3a0b5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">systems/</text>
+  <text x="168" y="332" fill="#b8b9ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">Linux (Arch/Debian) · Windows Server · AD DS</text>
 
   <!-- Right Side Cyber Radar / HUD Card -->
   <rect x="651" y="78" width="280" height="275" rx="9" fill="#1d1d23" stroke="#b99af0" stroke-width="1.5"/>
